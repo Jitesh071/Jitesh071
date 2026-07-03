@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jitesh Singh</h1>
-<h3 align="center">A pas I enjoy building data-driven solutions, analyzing real-world datasets, and creating machine learning models that solve practical problems.</h3>
+<h3 align="center"> I enjoy building data-driven solutions, analyzing real-world datasets, and creating machine learning models that solve practical problems.</h3>
 
 - 🌱 I’m currently learning **I'm currently improving my skills in Python, SQL, Power BI, Tableau, and Machine Learning while working on projects in data analytics, predictive modeling, and business intelligence.**
 
